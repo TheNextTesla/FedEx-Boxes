@@ -1,2 +1,2 @@
 # FedEx-Boxes
-Programming Solution to the GM Box-Optimization Challenge
+Programming Solution to the FedEx Box-Optimization Challenge
